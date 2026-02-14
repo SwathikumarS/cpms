@@ -1,6 +1,6 @@
 {
   "name": "Courier Management",
-  "short_name": "CourierMgr",
+  "short_name": "CPMS",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f9faff",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
